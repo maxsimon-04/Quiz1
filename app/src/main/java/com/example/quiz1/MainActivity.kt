@@ -26,4 +26,4 @@ class MainActivity : GameActivity() {
                 or View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
                 or View.SYSTEM_UI_FLAG_FULLSCREEN)
     }
-}
+}hALLO
