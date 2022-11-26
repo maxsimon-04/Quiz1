@@ -14,8 +14,6 @@ class MainActivity : GameActivity() {
         super.onWindowFocusChanged(hasFocus)
         if (hasFocus) {
             hideSystemUi()
-        }else{
-            println("Du Hund")
         }
     }
 
