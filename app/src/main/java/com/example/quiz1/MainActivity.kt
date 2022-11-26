@@ -15,7 +15,7 @@ class MainActivity : GameActivity() {
         if (hasFocus) {
             hideSystemUi()
         }else{
-            println("Hallo")
+            println("Du Hund")
         }
     }
 
@@ -28,4 +28,4 @@ class MainActivity : GameActivity() {
                 or View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
                 or View.SYSTEM_UI_FLAG_FULLSCREEN)
     }
-}hALLO
+}
